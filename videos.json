@@ -2,7 +2,7 @@
   "videos": [
     {
       "id": "1",
-      "title": "Beautiful Ocean Waves",
+      "title": "PL",
       "description": "Relaxing ocean waves in 360 degrees",
       "videoURL": "https://stream.spatialgen.com/stream/video1.m3u8",
       "thumbnailURL": "https://assets.goal.com/images/v3/blt0826af6c45456a44/Man%20City%20EPL%20Dominance.jpg?auto=webp&format=pjpg&width=3840&quality=60",
@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "title": "Mountain Adventure",
+      "title": "Watch Live",
       "description": "Explore stunning mountain peaks in VR",
       "videoURL": "https://stream.spatialgen.com/stream/video2.m3u8",
       "thumbnailURL": "https://assets.goal.com/images/v3/blte62064c5a296f201/EPL%20Player%20Of%20The%20Year.jpg",
@@ -18,18 +18,18 @@
     },
     {
       "id": "3",
-      "title": "Mountain Adventure",
+      "title": "Talor Swift",
       "description": "Explore stunning mountain peaks in VR",
       "videoURL": "https://stream.spatialgen.com/stream/video2.m3u8",
-      "thumbnailURL": "https://assets.goal.com/images/v3/blte62064c5a296f201/EPL%20Player%20Of%20The%20Year.jpg",
-      "duration": "3:45"
+      "thumbnailURL": "https://cdn.britannica.com/41/247541-050-EDC07275/Taylor-Swift-performs-during-Eras-Tour-Lumen-Field-July-22-2023-Seattle-Washington.jpg",
+      "duration": "1:45"
     },
     {
       "id": "4",
-      "title": "Mountain Adventure",
+      "title": "F1",
       "description": "Explore stunning mountain peaks in VR",
       "videoURL": "https://stream.spatialgen.com/stream/video2.m3u8",
-      "thumbnailURL": "https://assets.goal.com/images/v3/blte62064c5a296f201/EPL%20Player%20Of%20The%20Year.jpg",
+      "thumbnailURL": "https://media.formula1.com/image/upload/v1705423544/fom-website/2023/McLaren/Formula%201%20header%20template%20%2835%29.png",
       "duration": "3:45"
     },
     {
